@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\meryem demir\source\repos\meryemnurdemir_160313038\meryemnurdemir_160313038\source.cpp(136): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  All 136 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Meryemnurdemir_160313038.vcxproj -> C:\Users\Meryem Demir\source\repos\Meryemnurdemir_160313038\Release\Meryemnurdemir_160313038.exe
